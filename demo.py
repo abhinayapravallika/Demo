@@ -10,3 +10,7 @@ with col2:
   st.subheader("House sparrow")
   st.image("https://wildlifesos.org/wp-content/uploads/2022/03/House-sparrow-female-scaled.jpg")
   st.write("House sparrows are good at adapting to urban environments.")
+with col3:
+  st.subheader("sparrows")
+  st.image("https://media1.tenor.com/m/Ni39LJJY6dIAAAAC/sparrows.gif")
+  st.write("sparrows playing with water")  
