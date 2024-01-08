@@ -16,3 +16,5 @@ with col3:
   st.write("sparrows playing with water") 
 with col1:
   st.video("https://www.youtube.com/watch?v=8WfMUqd4qH8&pp=ygUUdG9tIGFuZCBqZXJyeSB0ZWx1Z3U%3D")
+with col2:
+  st.image("https://www.gifcen.com/wp-content/uploads/2021/09/tom-and-jerry-gif.gif")
