@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title="sparrows")
 st.header("Types of sparrows")
-col1,col2=st.columns(2)
+col1,col2=st.columns(3)
 with col1:
   st.subheader("Song sparrow")
   st.image("https://www.allaboutbirds.org/guide/assets/photo/308771371-480px.jpg")
